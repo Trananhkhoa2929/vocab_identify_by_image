@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+results/
+audio_cache/
+.pytest_cache/
+models/
+weights/
+*.pt
+*.safetensors
+docs/
+scripts/
+data/benchmarks/
+src/*.egg-info/
+/*.md
+!/README.md
