@@ -1,0 +1,842 @@
+{
+  "objects": [
+    {
+      "label": "person",
+      "aliases": [],
+      "translations": {
+        "en": "person",
+        "vi": "người",
+        "zh": "人",
+        "ja": "人",
+        "ko": "사람"
+      }
+    },
+    {
+      "label": "backpack",
+      "aliases": [],
+      "translations": {
+        "en": "backpack",
+        "vi": "ba lô",
+        "zh": "背包",
+        "ja": "リュック",
+        "ko": "백팩"
+      }
+    },
+    {
+      "label": "handbag",
+      "aliases": [],
+      "translations": {
+        "en": "handbag",
+        "vi": "túi xách",
+        "zh": "手提包",
+        "ja": "ハンドバッグ",
+        "ko": "핸드백"
+      }
+    },
+    {
+      "label": "suitcase",
+      "aliases": [],
+      "translations": {
+        "en": "suitcase",
+        "vi": "va li",
+        "zh": "行李箱",
+        "ja": "スーツケース",
+        "ko": "여행 가방"
+      }
+    },
+    {
+      "label": "bottle",
+      "aliases": [],
+      "translations": {
+        "en": "bottle",
+        "vi": "chai",
+        "zh": "瓶子",
+        "ja": "ボトル",
+        "ko": "병"
+      }
+    },
+    {
+      "label": "cup",
+      "aliases": [],
+      "translations": {
+        "en": "cup",
+        "vi": "cốc",
+        "zh": "杯子",
+        "ja": "カップ",
+        "ko": "컵"
+      }
+    },
+    {
+      "label": "bowl",
+      "aliases": [],
+      "translations": {
+        "en": "bowl",
+        "vi": "bát",
+        "zh": "碗",
+        "ja": "ボウル",
+        "ko": "그릇"
+      }
+    },
+    {
+      "label": "fork",
+      "aliases": [],
+      "translations": {
+        "en": "fork",
+        "vi": "nĩa",
+        "zh": "叉子",
+        "ja": "フォーク",
+        "ko": "포크"
+      }
+    },
+    {
+      "label": "knife",
+      "aliases": [],
+      "translations": {
+        "en": "knife",
+        "vi": "dao",
+        "zh": "刀",
+        "ja": "ナイフ",
+        "ko": "칼"
+      }
+    },
+    {
+      "label": "spoon",
+      "aliases": [],
+      "translations": {
+        "en": "spoon",
+        "vi": "thìa",
+        "zh": "勺子",
+        "ja": "スプーン",
+        "ko": "숟가락"
+      }
+    },
+    {
+      "label": "chair",
+      "aliases": [],
+      "translations": {
+        "en": "chair",
+        "vi": "ghế",
+        "zh": "椅子",
+        "ja": "椅子",
+        "ko": "의자"
+      }
+    },
+    {
+      "label": "sofa",
+      "aliases": [
+        "couch"
+      ],
+      "translations": {
+        "en": "sofa",
+        "vi": "ghế sofa",
+        "zh": "沙发",
+        "ja": "ソファ",
+        "ko": "소파"
+      }
+    },
+    {
+      "label": "bed",
+      "aliases": [],
+      "translations": {
+        "en": "bed",
+        "vi": "giường",
+        "zh": "床",
+        "ja": "ベッド",
+        "ko": "침대"
+      }
+    },
+    {
+      "label": "dining table",
+      "aliases": [
+        "table"
+      ],
+      "translations": {
+        "en": "dining table",
+        "vi": "bàn ăn",
+        "zh": "餐桌",
+        "ja": "ダイニングテーブル",
+        "ko": "식탁"
+      }
+    },
+    {
+      "label": "desk",
+      "aliases": [],
+      "translations": {
+        "en": "desk",
+        "vi": "bàn làm việc",
+        "zh": "书桌",
+        "ja": "机",
+        "ko": "책상"
+      }
+    },
+    {
+      "label": "laptop",
+      "aliases": [],
+      "translations": {
+        "en": "laptop",
+        "vi": "máy tính xách tay",
+        "zh": "笔记本电脑",
+        "ja": "ノートパソコン",
+        "ko": "노트북"
+      }
+    },
+    {
+      "label": "keyboard",
+      "aliases": [],
+      "translations": {
+        "en": "keyboard",
+        "vi": "bàn phím",
+        "zh": "键盘",
+        "ja": "キーボード",
+        "ko": "키보드"
+      }
+    },
+    {
+      "label": "mouse",
+      "aliases": [],
+      "translations": {
+        "en": "mouse",
+        "vi": "chuột máy tính",
+        "zh": "鼠标",
+        "ja": "マウス",
+        "ko": "마우스"
+      }
+    },
+    {
+      "label": "monitor",
+      "aliases": [],
+      "translations": {
+        "en": "monitor",
+        "vi": "màn hình",
+        "zh": "显示器",
+        "ja": "モニター",
+        "ko": "모니터"
+      }
+    },
+    {
+      "label": "smartphone",
+      "aliases": [
+        "cell phone",
+        "mobile phone",
+        "phone"
+      ],
+      "translations": {
+        "en": "smartphone",
+        "vi": "điện thoại thông minh",
+        "zh": "智能手机",
+        "ja": "スマートフォン",
+        "ko": "스마트폰"
+      }
+    },
+    {
+      "label": "remote control",
+      "aliases": [],
+      "translations": {
+        "en": "remote control",
+        "vi": "điều khiển từ xa",
+        "zh": "遥控器",
+        "ja": "リモコン",
+        "ko": "리모컨"
+      }
+    },
+    {
+      "label": "television",
+      "aliases": [
+        "tv"
+      ],
+      "translations": {
+        "en": "television",
+        "vi": "tivi",
+        "zh": "电视",
+        "ja": "テレビ",
+        "ko": "텔레비전"
+      }
+    },
+    {
+      "label": "book",
+      "aliases": [],
+      "translations": {
+        "en": "book",
+        "vi": "sách",
+        "zh": "书",
+        "ja": "本",
+        "ko": "책"
+      }
+    },
+    {
+      "label": "clock",
+      "aliases": [],
+      "translations": {
+        "en": "clock",
+        "vi": "đồng hồ",
+        "zh": "时钟",
+        "ja": "時計",
+        "ko": "시계"
+      }
+    },
+    {
+      "label": "scissors",
+      "aliases": [],
+      "translations": {
+        "en": "scissors",
+        "vi": "kéo",
+        "zh": "剪刀",
+        "ja": "はさみ",
+        "ko": "가위"
+      }
+    },
+    {
+      "label": "toothbrush",
+      "aliases": [],
+      "translations": {
+        "en": "toothbrush",
+        "vi": "bàn chải đánh răng",
+        "zh": "牙刷",
+        "ja": "歯ブラシ",
+        "ko": "칫솔"
+      }
+    },
+    {
+      "label": "hair dryer",
+      "aliases": [],
+      "translations": {
+        "en": "hair dryer",
+        "vi": "máy sấy tóc",
+        "zh": "吹风机",
+        "ja": "ドライヤー",
+        "ko": "헤어드라이어"
+      }
+    },
+    {
+      "label": "umbrella",
+      "aliases": [],
+      "translations": {
+        "en": "umbrella",
+        "vi": "ô",
+        "zh": "雨伞",
+        "ja": "傘",
+        "ko": "우산"
+      }
+    },
+    {
+      "label": "glasses",
+      "aliases": [
+        "eyeglasses"
+      ],
+      "translations": {
+        "en": "glasses",
+        "vi": "kính mắt",
+        "zh": "眼镜",
+        "ja": "眼鏡",
+        "ko": "안경"
+      }
+    },
+    {
+      "label": "hat",
+      "aliases": [],
+      "translations": {
+        "en": "hat",
+        "vi": "mũ",
+        "zh": "帽子",
+        "ja": "帽子",
+        "ko": "모자"
+      }
+    },
+    {
+      "label": "shoe",
+      "aliases": [],
+      "translations": {
+        "en": "shoe",
+        "vi": "giày",
+        "zh": "鞋",
+        "ja": "靴",
+        "ko": "신발"
+      }
+    },
+    {
+      "label": "shirt",
+      "aliases": [],
+      "translations": {
+        "en": "shirt",
+        "vi": "áo sơ mi",
+        "zh": "衬衫",
+        "ja": "シャツ",
+        "ko": "셔츠"
+      }
+    },
+    {
+      "label": "pants",
+      "aliases": [],
+      "translations": {
+        "en": "pants",
+        "vi": "quần",
+        "zh": "裤子",
+        "ja": "ズボン",
+        "ko": "바지"
+      }
+    },
+    {
+      "label": "jacket",
+      "aliases": [],
+      "translations": {
+        "en": "jacket",
+        "vi": "áo khoác",
+        "zh": "夹克",
+        "ja": "ジャケット",
+        "ko": "재킷"
+      }
+    },
+    {
+      "label": "refrigerator",
+      "aliases": [],
+      "translations": {
+        "en": "refrigerator",
+        "vi": "tủ lạnh",
+        "zh": "冰箱",
+        "ja": "冷蔵庫",
+        "ko": "냉장고"
+      }
+    },
+    {
+      "label": "microwave",
+      "aliases": [],
+      "translations": {
+        "en": "microwave",
+        "vi": "lò vi sóng",
+        "zh": "微波炉",
+        "ja": "電子レンジ",
+        "ko": "전자레인지"
+      }
+    },
+    {
+      "label": "oven",
+      "aliases": [],
+      "translations": {
+        "en": "oven",
+        "vi": "lò nướng",
+        "zh": "烤箱",
+        "ja": "オーブン",
+        "ko": "오븐"
+      }
+    },
+    {
+      "label": "sink",
+      "aliases": [],
+      "translations": {
+        "en": "sink",
+        "vi": "bồn rửa",
+        "zh": "水槽",
+        "ja": "シンク",
+        "ko": "싱크대"
+      }
+    },
+    {
+      "label": "toilet",
+      "aliases": [],
+      "translations": {
+        "en": "toilet",
+        "vi": "bồn cầu",
+        "zh": "马桶",
+        "ja": "トイレ",
+        "ko": "변기"
+      }
+    },
+    {
+      "label": "door",
+      "aliases": [],
+      "translations": {
+        "en": "door",
+        "vi": "cửa",
+        "zh": "门",
+        "ja": "ドア",
+        "ko": "문"
+      }
+    },
+    {
+      "label": "window",
+      "aliases": [],
+      "translations": {
+        "en": "window",
+        "vi": "cửa sổ",
+        "zh": "窗户",
+        "ja": "窓",
+        "ko": "창문"
+      }
+    },
+    {
+      "label": "lamp",
+      "aliases": [],
+      "translations": {
+        "en": "lamp",
+        "vi": "đèn",
+        "zh": "灯",
+        "ja": "ランプ",
+        "ko": "램프"
+      }
+    },
+    {
+      "label": "fan",
+      "aliases": [],
+      "translations": {
+        "en": "fan",
+        "vi": "quạt",
+        "zh": "风扇",
+        "ja": "扇風機",
+        "ko": "선풍기"
+      }
+    },
+    {
+      "label": "air conditioner",
+      "aliases": [],
+      "translations": {
+        "en": "air conditioner",
+        "vi": "máy điều hòa",
+        "zh": "空调",
+        "ja": "エアコン",
+        "ko": "에어컨"
+      }
+    },
+    {
+      "label": "camera",
+      "aliases": [],
+      "translations": {
+        "en": "camera",
+        "vi": "máy ảnh",
+        "zh": "相机",
+        "ja": "カメラ",
+        "ko": "카메라"
+      }
+    },
+    {
+      "label": "tripod",
+      "aliases": [],
+      "translations": {
+        "en": "tripod",
+        "vi": "chân máy",
+        "zh": "三脚架",
+        "ja": "三脚",
+        "ko": "삼각대"
+      }
+    },
+    {
+      "label": "headphones",
+      "aliases": [],
+      "translations": {
+        "en": "headphones",
+        "vi": "tai nghe",
+        "zh": "耳机",
+        "ja": "ヘッドホン",
+        "ko": "헤드폰"
+      }
+    },
+    {
+      "label": "speaker",
+      "aliases": [],
+      "translations": {
+        "en": "speaker",
+        "vi": "loa",
+        "zh": "扬声器",
+        "ja": "スピーカー",
+        "ko": "스피커"
+      }
+    },
+    {
+      "label": "pen",
+      "aliases": [],
+      "translations": {
+        "en": "pen",
+        "vi": "bút",
+        "zh": "笔",
+        "ja": "ペン",
+        "ko": "펜"
+      }
+    },
+    {
+      "label": "pencil",
+      "aliases": [],
+      "translations": {
+        "en": "pencil",
+        "vi": "bút chì",
+        "zh": "铅笔",
+        "ja": "鉛筆",
+        "ko": "연필"
+      }
+    },
+    {
+      "label": "notebook",
+      "aliases": [],
+      "translations": {
+        "en": "notebook",
+        "vi": "sổ tay",
+        "zh": "笔记本",
+        "ja": "ノート",
+        "ko": "공책"
+      }
+    },
+    {
+      "label": "calculator",
+      "aliases": [],
+      "translations": {
+        "en": "calculator",
+        "vi": "máy tính cầm tay",
+        "zh": "计算器",
+        "ja": "電卓",
+        "ko": "계산기"
+      }
+    },
+    {
+      "label": "wallet",
+      "aliases": [],
+      "translations": {
+        "en": "wallet",
+        "vi": "ví",
+        "zh": "钱包",
+        "ja": "財布",
+        "ko": "지갑"
+      }
+    },
+    {
+      "label": "key",
+      "aliases": [],
+      "translations": {
+        "en": "key",
+        "vi": "chìa khóa",
+        "zh": "钥匙",
+        "ja": "鍵",
+        "ko": "열쇠"
+      }
+    },
+    {
+      "label": "car",
+      "aliases": [],
+      "translations": {
+        "en": "car",
+        "vi": "ô tô",
+        "zh": "汽车",
+        "ja": "車",
+        "ko": "자동차"
+      }
+    },
+    {
+      "label": "bicycle",
+      "aliases": [],
+      "translations": {
+        "en": "bicycle",
+        "vi": "xe đạp",
+        "zh": "自行车",
+        "ja": "自転車",
+        "ko": "자전거"
+      }
+    },
+    {
+      "label": "motorcycle",
+      "aliases": [],
+      "translations": {
+        "en": "motorcycle",
+        "vi": "xe máy",
+        "zh": "摩托车",
+        "ja": "オートバイ",
+        "ko": "오토바이"
+      }
+    },
+    {
+      "label": "helmet",
+      "aliases": [],
+      "translations": {
+        "en": "helmet",
+        "vi": "mũ bảo hiểm",
+        "zh": "头盔",
+        "ja": "ヘルメット",
+        "ko": "헬멧"
+      }
+    },
+    {
+      "label": "bus",
+      "aliases": [],
+      "translations": {
+        "en": "bus",
+        "vi": "xe buýt",
+        "zh": "公交车",
+        "ja": "バス",
+        "ko": "버스"
+      }
+    },
+    {
+      "label": "train",
+      "aliases": [],
+      "translations": {
+        "en": "train",
+        "vi": "tàu hỏa",
+        "zh": "火车",
+        "ja": "電車",
+        "ko": "기차"
+      }
+    },
+    {
+      "label": "airplane",
+      "aliases": [],
+      "translations": {
+        "en": "airplane",
+        "vi": "máy bay",
+        "zh": "飞机",
+        "ja": "飛行機",
+        "ko": "비행기"
+      }
+    },
+    {
+      "label": "apple",
+      "aliases": [],
+      "translations": {
+        "en": "apple",
+        "vi": "táo",
+        "zh": "苹果",
+        "ja": "りんご",
+        "ko": "사과"
+      }
+    },
+    {
+      "label": "banana",
+      "aliases": [],
+      "translations": {
+        "en": "banana",
+        "vi": "chuối",
+        "zh": "香蕉",
+        "ja": "バナナ",
+        "ko": "바나나"
+      }
+    },
+    {
+      "label": "orange",
+      "aliases": [],
+      "translations": {
+        "en": "orange",
+        "vi": "cam",
+        "zh": "橙子",
+        "ja": "オレンジ",
+        "ko": "오렌지"
+      }
+    },
+    {
+      "label": "sandwich",
+      "aliases": [],
+      "translations": {
+        "en": "sandwich",
+        "vi": "bánh sandwich",
+        "zh": "三明治",
+        "ja": "サンドイッチ",
+        "ko": "샌드위치"
+      }
+    },
+    {
+      "label": "pizza",
+      "aliases": [],
+      "translations": {
+        "en": "pizza",
+        "vi": "pizza",
+        "zh": "披萨",
+        "ja": "ピザ",
+        "ko": "피자"
+      }
+    },
+    {
+      "label": "cake",
+      "aliases": [],
+      "translations": {
+        "en": "cake",
+        "vi": "bánh ngọt",
+        "zh": "蛋糕",
+        "ja": "ケーキ",
+        "ko": "케이크"
+      }
+    },
+    {
+      "label": "dog",
+      "aliases": [],
+      "translations": {
+        "en": "dog",
+        "vi": "chó",
+        "zh": "狗",
+        "ja": "犬",
+        "ko": "개"
+      }
+    },
+    {
+      "label": "cat",
+      "aliases": [],
+      "translations": {
+        "en": "cat",
+        "vi": "mèo",
+        "zh": "猫",
+        "ja": "猫",
+        "ko": "고양이"
+      }
+    },
+    {
+      "label": "plant",
+      "aliases": [],
+      "translations": {
+        "en": "plant",
+        "vi": "cây",
+        "zh": "植物",
+        "ja": "植物",
+        "ko": "식물"
+      }
+    },
+    {
+      "label": "flower",
+      "aliases": [],
+      "translations": {
+        "en": "flower",
+        "vi": "hoa",
+        "zh": "花",
+        "ja": "花",
+        "ko": "꽃"
+      }
+    }
+  ],
+  "confusion_groups": [
+    [
+      "smartphone",
+      "remote control",
+      "calculator"
+    ],
+    [
+      "cup",
+      "bowl",
+      "bottle"
+    ],
+    [
+      "laptop",
+      "keyboard",
+      "monitor"
+    ],
+    [
+      "sofa",
+      "chair"
+    ],
+    [
+      "book",
+      "notebook"
+    ],
+    [
+      "pen",
+      "pencil"
+    ],
+    [
+      "television",
+      "monitor"
+    ],
+    [
+      "camera",
+      "smartphone"
+    ],
+    [
+      "shirt",
+      "jacket"
+    ],
+    [
+      "hat",
+      "helmet"
+    ]
+  ]
+}
