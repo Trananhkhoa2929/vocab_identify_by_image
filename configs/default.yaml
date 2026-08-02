@@ -1,0 +1,22 @@
+catalog:
+  path: data/vocab/object_catalog.json
+quality:
+  min_side: 320
+  blur_min: 45.0
+  brightness_min: 25.0
+  brightness_max: 235.0
+  contrast_min: 18.0
+detector:
+  model_name: yolov8s-worldv2.pt
+  imgsz: 640
+  conf: 0.18
+  iou: 0.55
+verification:
+  mode: adaptive
+  difficulty_threshold: 0.36
+  crop_pad: 0.22
+  min_switch_prob: 0.65
+  min_switch_margin: 0.40
+  model:
+    model_name: ViT-B-32
+    pretrained: laion2b_s34b_b79k
