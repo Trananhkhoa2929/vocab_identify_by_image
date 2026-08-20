@@ -1,0 +1,14 @@
+[build-system]
+requires=["setuptools>=69","wheel"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="visual-vocab-assistant"
+version="1.0.0"
+description="Visual vocabulary learning assistant with adaptive object verification"
+requires-python=">=3.10"
+dependencies=["numpy>=1.26","Pillow>=10","opencv-python>=4.9","PyYAML>=6","pandas>=2.2","ultralytics>=8.3","open_clip_torch>=2.26","gradio>=5","phonemizer>=3.3","edge-tts>=7","fastapi>=0.115","uvicorn>=0.30","python-multipart>=0.0.9"]
+[project.optional-dependencies]
+dev=["pytest>=8"]
+[tool.setuptools.packages.find]
+where=["src"]
